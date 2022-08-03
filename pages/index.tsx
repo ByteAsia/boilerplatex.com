@@ -17,15 +17,12 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Welcome to <a href="https://boilerplatex.com">BoilerplateX!</a>
         </h1>
-
         <p className={styles.description}>
           Github {' '}
           <code className={styles.code}><a href="https://github.com/BoilerplateX">https://github.com/BoilerplateX</a></code>
         </p>
       </main>
-
       <footer className={styles.footer}>
-
       </footer>
     </div>
   )
