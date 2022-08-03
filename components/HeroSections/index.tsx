@@ -34,8 +34,8 @@ export default function HeroSections() {
                                             <span className="sr-only">Workflow</span>
                                             <img
                                                 alt="Workflow"
-                                                className="h-8 w-auto sm:h-10"
-                                                src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                                                className="h-12 w-auto sm:h-12"
+                                                src="/boilerplateX.png"
                                             />
                                         </a>
                                         <div className="-mr-2 flex items-center md:hidden">
@@ -77,7 +77,7 @@ export default function HeroSections() {
                                         <div>
                                             <img
                                                 className="h-8 w-auto"
-                                                src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                                                src="/boilerplateX.png"
                                                 alt=""
                                             />
                                         </div>
@@ -133,7 +133,7 @@ export default function HeroSections() {
                                         href="https://github.com/boilerplatex"
                                         className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 md:py-4 md:text-lg md:px-10"
                                     >
-                                       Github
+                                        Github
                                     </a>
                                 </div>
                             </div>
